@@ -1,3 +1,7 @@
 public void verifyLogin(){
 // code to login to the application
 }
+
+public void verifyLoginWithInvalidCredentials(){
+// code to login to the application
+}
